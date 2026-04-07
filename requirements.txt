@@ -20,4 +20,3 @@ gunicorn==22.0.0
 
 # Lint (CI)
 ruff==0.8.4
-
